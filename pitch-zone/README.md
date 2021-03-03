@@ -1,4 +1,4 @@
-# Pamoja news
+# Pitch-zone2
 
 THis is a news website that users can write and get a pitch that relates to different fields depending on the user's prefference 
 
